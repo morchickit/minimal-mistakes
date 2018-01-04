@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about
   - title: "Blog"
-  url: https://medium.com/@stateofopendata
+    url: https://medium.com/@stateofopendata
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
